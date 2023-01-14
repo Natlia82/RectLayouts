@@ -1,15 +1,14 @@
 import React from 'react';
 import './App.css';
-import Portfolio from './components/Portfolio';
+import Store from './components/Store';
 
 
 
 function App() {
-  return (
-    <div className="Appi">
-      <Portfolio/>
-    </div>
-  );
+    return ( <div className = "Appi" >
+              <Store />
+            </div>
+    );
 }
 
 export default App;

@@ -1,9 +1,9 @@
 import React, { Component } from "react";
-function Toolbar(props) {
+function IconSwitch(props) {
     const {filters} = props;
     
     return <div></div>;
 }
 
-export default Toolbar;
+export default IconSwitch;
 
